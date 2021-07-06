@@ -31,7 +31,7 @@ void printCalendar(int year)
 		else
 			days = mDays[i];
      
-  		cout<<endl<<"  ------------"<<monthList[i]<<"-------------"<<endl;   
+  		cout<<endl<<"  ---------"<<monthList[i]<<"---------"<<endl;   
   
         cout<<"  Sun  Mon  Tue  Wed  Thu  Fri  Sat"<<endl; 
   
