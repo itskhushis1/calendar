@@ -12,9 +12,9 @@ void printCalendar(int year)
                         "July", "August", "September", "October", "November", "December" }; 
                        
     
-    cout<<"  --------------------------------"<<endl;
+    cout<<"  ------------------"<<endl;
     cout<<"           Calendar - "<<year<<endl;
-    cout<<"  --------------------------------"<<endl<<endl;
+    cout<<"  ------------------"<<endl<<endl;
     int days; 
     int current; 
    
