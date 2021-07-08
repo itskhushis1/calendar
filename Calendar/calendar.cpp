@@ -87,7 +87,8 @@ int main() {
 				break;
 		}
 			
-	}while(option!='e' && option!='E');	 	
+	}
+	while(option!='e' && option!='E');	 	
  	
     return 0;
 }
